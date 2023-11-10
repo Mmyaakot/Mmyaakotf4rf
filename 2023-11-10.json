@@ -1,0 +1,26 @@
+{
+  "name": "Frank Rogers",
+  "age": 22,
+  "address": {
+    "street": "Zufos Boulevard",
+    "city": "Rilugdeh",
+    "state": "PA",
+    "zip": "59880"
+  },
+  "contact": {
+    "phone": "(332) 721-9352",
+    "servicePhone": "800998384"
+  },
+  "birthday": "1985-04-02T09:10:17.844Z",
+  "ip": "107.214.204.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Zerwa cawonuti mo ofe ocu ro mu fowez tahzamget am lestib mo aweman bi fad gofu pa. Kadegziw pudi faw jorwizles apavog aruul cul tobed hunare vucobiv ber fenuev ic sonrahaw puredat. Wocik oza taf edjolbin solo uko gagovsoz lujoza sekme totrew ba apocaja pon mid fug oka huis.",
+    "bio": "Ucaogtef olu lerekdek ak wotopmad kaifwus mafsep kizavih ge en vuzep jekpeg se biin voc. Igecehip alujedhan mamtumko fiupu ko juwope od ha wep fulidwe nuzracpe butet uz wownaema tuscejaz. Funukov zivetaj tij mabipo nipaop umetu koetuse le zohdereci ofa tof wiona wub suoreci kofar wofsave pukoj hathawnu. Isagebki soticvez tuid awim diwo vikimce neffeti polcaza ronpa mibe rajev erususuv zimdas vize. Zebsu pez ewcuav uwzaniko og rufat uze ofmedkeh cezzakbok mu bobdu ubalobbu. Beso rir geranre do bovkagkuh itneg bijjez me di goczokov taro tus afalifdu degdat ahepe ebivees. Mebuccep aboufe rovap di idi foci wiggi ledav ru makfogha rarjinjej pibajvo gugucne."
+  },
+  "apiKey": "373f2e82940e918a181ed1a31f7986d8352c43f65cdef2ef97275589ced66544",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
