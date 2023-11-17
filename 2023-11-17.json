@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Smith",
+  "age": 30,
+  "address": {
+    "street": "Givu Trail",
+    "city": "Cadege",
+    "state": "MT",
+    "zip": "10312"
+  },
+  "contact": {
+    "phone": "(719) 936-4412",
+    "servicePhone": "800153891"
+  },
+  "birthday": "1959-07-23T09:22:18.944Z",
+  "ip": "244.117.106.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Rit jo baoda av kowha zaik ha zuhgo tisvi kutafjeg am du gisepe za cijbumpu zut tasbuvvu. Eb ukheddi fawuec foige puvfuro ata kojih zirifif relwi al tuz cucivo lo kelpuaci woojhe. Cobhul pimrab naluti lurige jadewag emubohpo eho ivufodci ekja hi ev wegozdo fajfe nuko wejdif. Haloc luen vo ufa ijuubuz lidveh saluba goudkud jobu ac boznako ukuhna do veila. Li umu ebwo ub kufpo zapizuru gusec joj vac iwo bejgeje sogtetzi fiboful igu ohahodi. Dig ijetolcor beraptug meju zagocem sukuwre be anaulziz haazju wi et omkoru tarrugri wuah teujdol.",
+    "bio": "Asobaci bicjuf pe ozajul dezfe zagowewu rejannu tur le enzieb su tume jeopehip ti poewle nusuw dul apduk. Venji mekuw pe gi iw mokek vele juh vigci vinsaba je er. Onbemhib kerek gug we num ahu sepguza vezivmi ke bekevojip rersa ev kanovmi henem biagoki en. Hutfe ohikerug bel ov apburcab hejapor dugojin ifiveced zetamim gupgu musguz fepuz vovko tedek le bevak bizo wim."
+  },
+  "apiKey": "92489009578ce0f63915011a1473f00717f959a34966112fb4c75538a15271b2",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
