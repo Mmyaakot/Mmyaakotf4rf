@@ -1,0 +1,26 @@
+{
+  "name": "Ola Nelson",
+  "age": 34,
+  "address": {
+    "street": "Bosdi Point",
+    "city": "Zohhadro",
+    "state": "IL",
+    "zip": "97407"
+  },
+  "contact": {
+    "phone": "(884) 533-7856",
+    "servicePhone": "800453155"
+  },
+  "birthday": "1977-08-17T22:23:30.854Z",
+  "ip": "22.217.202.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Cailu rewihdum nifugsi ris ceb fezwez hepavbaj bol mikkovma pum asu gujikse wapsi bopmi nubbe va bapmo go. Vuw biluj gelufev refortim zubih rebatka vuvanah puzrur hebafle du dibwijehe feg udu tuh. Zele juwewuk arjogles uzoogaveb ojme won ore dimmim vog na fe mocwukza so ce ogu. Dog ruzovpe dazfi doso vozhu uz zamun ceokohu ebe gujasla zam lolwa ase cumgo li fufwuzjur wela.",
+    "bio": "Loowumaw ucarek nad todbip zabsutatu vonefif zusuk muwekmi bevohu haz omolona uwoh ekca dulubo jeib. Bijar tafu himliwkuz pu lovuz bepic guija va etzadzo sici duhhe ehhez no. Dapoz mod najubha romene mevdih nutkauz nitop ra esimarac veta comadho futlu lut tagvon taf."
+  },
+  "apiKey": "271217f8492ff3ef5b23c69ab08a933c6b26b6d8c0f8c4a1a1e0fdce68b38b95",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
