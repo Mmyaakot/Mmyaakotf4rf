@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Lucas",
+  "age": 20,
+  "address": {
+    "street": "Nalmur Drive",
+    "city": "Jujedoj",
+    "state": "ID",
+    "zip": "87724"
+  },
+  "contact": {
+    "phone": "(349) 472-2312",
+    "servicePhone": "800397978"
+  },
+  "birthday": "1987-04-13T19:25:23.463Z",
+  "ip": "161.168.183.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Pume tief biru esijen we bedne em jocebe de ma vegleduto ejwi luheceve isopipvi. Nevug esolotrag cefi cop civcokzu aciepa mos siuh rerenitiw zi vehgos hi co aprisi cev kucovroc dudetari raozi. Bueldo jatonim kohbawici dobeh ip diruk kagehe butmoju uwofi wafuhaf hawpal jop. Ungud puhtok faz racoj pispud wamup lek leafriv culjuawi opemo sibreobe otuinakoh hirdep.",
+    "bio": "Koekece fa ov zar siiviven ehavuic gukruw burup rominze dinati lirocwi kupasbu femletmo zu cog. Velkij fuivune nopca pu vok jocam wozan jag loupsut oge sabpu unaeregop vij fahpemki ago cuk ikjuhma. Gik ne civu ekoren nivelido joheghok pa ocedekat nof hihufew mu ifdobge jamwakla."
+  },
+  "apiKey": "e61ee8d1bb21393df654edd3fd0fa1e42eb6eb916fcb17322bf2fd02787a12b2",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
