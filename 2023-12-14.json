@@ -1,0 +1,26 @@
+{
+  "name": "Danny Mendez",
+  "age": 22,
+  "address": {
+    "street": "Sehod Extension",
+    "city": "Vabewka",
+    "state": "HI",
+    "zip": "02480"
+  },
+  "contact": {
+    "phone": "(332) 582-5415",
+    "servicePhone": "800463573"
+  },
+  "birthday": "1975-11-08T05:40:33.551Z",
+  "ip": "150.177.220.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Fem nolep bafuhegi pa jahabkog wek odobowoh ducuv guusunu dun to ogveb rumvi alu wire it jomu rigof. Umgi apiojiet gopreh fenudav naore dutculzub itcitu kohino aluviuz coada sijo datapaz siknam defto iginegak. Ubmum ove vil tu hab siloc pavelu unaduifi koguvu bi alavunak ojrihik vam towujed. Totuljaz turkevu vo bam ka sir ba lodov bib sa vuknuh sukujar zarwuahi ditna te da giz.",
+    "bio": "Ligoslu belarut jopaw fu kek uh nag roado ce afe sokher riili iztu motaw vig. Jedewigis upsejdiv ohcup kopbu gurlorvi gid sevwuka davin urmi mus kezudi puferu kuwojpi. Lad wo coz iri pejucelo tib gerdet we hehhit tiab cedvat winuebu novodes li. Akok hunzu wa gilhapef rucal bavtez ekzukor udicov zoh romajit kotno detiloip tifa taulehi razerudi fowomca kiiv sinu. Wivocemow cu ku lusib su fuoru vorohdi pute haniz ligasuj kef duf ip cobsaibi ariwuhas baktebzop demezeon."
+  },
+  "apiKey": "13b2a1486d016c7d5c177df447c43832d10e192de2e70893e08ef899e8da7a52",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
