@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Ruiz",
+  "age": 27,
+  "address": {
+    "street": "Serkij Terrace",
+    "city": "Lednejoli",
+    "state": "MD",
+    "zip": "69749"
+  },
+  "contact": {
+    "phone": "(445) 655-9875",
+    "servicePhone": "800983397"
+  },
+  "birthday": "1983-09-03T16:18:21.925Z",
+  "ip": "216.59.54.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Kutihfem vivza osi dep moama ufrakmep mi raftetef vurij pa nitki og odcodkuv ok zohibzan woktupa wiemvi. Nola pul ijfakpi koz wire vulot tusi kan ki ke ka nu maceoz atgumtor. Heljiazi duje zikvimsa mewedi su edzihve pugeg gedru itjeije git ga hafi fewog.",
+    "bio": "Ofgam ceindu we bazian muvab agi do bodhu cup puzkaij ejge to bunuma. Neb totwagat idnubuv ci ra miwub used ponut fiwebpi biwow wa vuvki ore. Wafmig lahgeluw ukusu feto zapiwu nu homnedzoz fu buvum gokawaze ledmofag nogefob rud mipragab zoomufow. Suf jev lizwapoc kaptewu uwva afezibece mir pakimro wetpirwed ki esjevul omi puwab moj. Tahivgaj fifaj he levif bu fi zovbibuz pu ufa modif osmi ifjurik ruoj kidik."
+  },
+  "apiKey": "83b06445cd5bdb5340aebdd18adb0c29237676b54dbab64bc033a1121439d59c",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
