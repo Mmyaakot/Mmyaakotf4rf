@@ -1,0 +1,26 @@
+{
+  "name": "Clayton King",
+  "age": 21,
+  "address": {
+    "street": "Finzuf Manor",
+    "city": "Mazonfad",
+    "state": "VT",
+    "zip": "86437"
+  },
+  "contact": {
+    "phone": "(905) 810-5269",
+    "servicePhone": "800195484"
+  },
+  "birthday": "2004-03-03T04:13:54.984Z",
+  "ip": "228.219.203.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Gaicolu evapu ma geesi ibboul mumud dunav mi jede uwupwos ologimda kof teg udelijta ruclo sut. Buocolos vi porcub niwpeiwe eda rep zedmahbak suvdohe he rir wo nufpacmi cobfabol ze cahoz kuseba. Zahzi gonoew fo uzikahe isaveig mezo izu irisena juur rul vovdeuz fu esutwaf acpihed beubo. Du ka eg gawef wom isa nuje kuav be caboh ahju nuzocbi vevevte la ozlu ankese.",
+    "bio": "Otgande canipje voli ajromito debema apilocnet ze ke sawin az re ju ji. Lomsakgin na curvorzuw gik di buf fe ko norit cehzudug ibu ajejes ka. Ke iz dafkot ce waom saipu cahcu kapduges gotzatiz et udi pehi kazuhpic ze moozo ni pula rase. Uca ve leajce zepwahab ubwum vanzefcaz os fovo capave apu oshu wub upatsel fulo. Tew vahu dip iwipuz ni tuip ahiof jameb eniivawu mouzhoh ul verom epiwewe nez dab. Upuacosu ercu anu semgajnaz petduho tuwene hum popti kokhape biuvuha zo atajeh."
+  },
+  "apiKey": "2de825e939a86463398bdfcbb3dec62ac840627867a624c7de10b7cd78c0ecaf",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
