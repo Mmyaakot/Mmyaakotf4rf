@@ -1,0 +1,26 @@
+{
+  "name": "Christine Olson",
+  "age": 60,
+  "address": {
+    "street": "Carja View",
+    "city": "Muujuke",
+    "state": "SD",
+    "zip": "79042"
+  },
+  "contact": {
+    "phone": "(254) 659-2224",
+    "servicePhone": "800691429"
+  },
+  "birthday": "1968-04-25T13:16:56.620Z",
+  "ip": "41.132.103.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Dakvo soew tagiaka saep fiw suno imbid li ja evjofve didsetzu at zankone. Ba kipbo tednir motwe paj tesulbar goveev fub fidbommuf lehpus ikujirdi nijbug azmethaw jojipduv wutoli deobu nuz. Welwe rucik gim duwu gij ribod coca eva romni so newhopnow uchuza rutakwo iviw davvu.",
+    "bio": "Agwadi zafku lejo tezapi sumep nij ozref juh deze vusmofo uz fiva her hoedihu. Ahhiccop ufjez bolihih itahofe iterak livna recgajif onivici jofleak emala tiig niwe bel egobu obem fidor losti. Lignamem mim vezap ove arauj mapca vahisa wuc haliceh kecrobu nas fiti emosevli dij diopu iketdop deebono. Waduhwe vawujde mo gijul sur zez po zijcurata juafhec tug wunjewwuh zazkihta as duf di."
+  },
+  "apiKey": "0659bd0cdf21f2fd23ffca6f2fa238304530f4ec4dcbe39c7c71e17e1ee6cf99",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
