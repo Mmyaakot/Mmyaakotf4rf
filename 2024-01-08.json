@@ -1,0 +1,26 @@
+{
+  "name": "Joshua McDonald",
+  "age": 51,
+  "address": {
+    "street": "Obeuj Way",
+    "city": "Biglugu",
+    "state": "IA",
+    "zip": "35033"
+  },
+  "contact": {
+    "phone": "(334) 587-4631",
+    "servicePhone": "800155543"
+  },
+  "birthday": "1992-01-20T01:44:07.455Z",
+  "ip": "89.216.215.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuboj legsu serov bivakana vok jirgoj peub wok mucimke seb rov ijlemif miwaduc zohsep reztonum evefas kiglezow lak. Nuciw wehugoes ri wuvfes ileul zopaj bilbon wiulikib ma fur umsew osi vuc liwgur lite. Ucta numetu ela jawcuohi mesni nul didwa le zemdidmud isi sej ejnikum vusaev zu hosadi lur jazmaj.",
+    "bio": "Nedero wizba desake najjocav idisif zizic hoema wog rakuj wostohwi bojaz lek zaz sedzik vinlirul je at adolfuc. Zataw bezoec zomuwtet uvtu hihbu latap ilniw epu topkuhav lebudkof co velewuv pu lagcevel. Tontocaba violu cuhkuj kavouze fugioba litru puni bik tunposez mikuhivod ni ju honohe. Semoru ovato zic letenor vu hietsu tigdot harpecwu habvedas wulminluc pe golu tavbo asihul. Bezkel dal irize ka zu fiduhu ziw uj loogi ku izu mecte wa su keiboudo weli. Sirim omhiig efda elgu mibpacun nug lukozori avgomni wah wew meija vev sof."
+  },
+  "apiKey": "e223992c6befdd813a74ce110a7ccadbcafb5b434017286e661bf7b042301870",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
