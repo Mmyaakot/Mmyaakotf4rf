@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Duncan",
+  "age": 31,
+  "address": {
+    "street": "Doiwa Heights",
+    "city": "Hijeaw",
+    "state": "ME",
+    "zip": "63010"
+  },
+  "contact": {
+    "phone": "(953) 390-3202",
+    "servicePhone": "800269546"
+  },
+  "birthday": "1978-12-27T21:35:30.862Z",
+  "ip": "25.228.150.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Us hanuku balugouso enoaji du sihkit rokobki ivogiahu dovon ecu juzizzaz hamniga ob wabmog ikbiid uvamufgu egte gi. Mewbipir ohuhol cudet pelag bodeb watmu da luvefoc mohsuopo sehoprut uhevi namdu. Gakwu za satikem si mefrul ki del adecod maja jor da ut uk. Tiku goz cejdudlen gum geruv puhsafeb sehor dalup uwfol tufoh kof widnes lupfalbav efo wubek. Diul zup ge mo jozad ubmuc eziilu koammop tojer zeglido hizwi omobous intezep tav na nes. Irafu nenceziv pofvo ebutus loka wow li rore igo zi duulu akiwot heh behuk selu uzgontoc.",
+    "bio": "Or ofisow da ebuos uzo finwioj fo energa lo val webi adlun te. Ebiisvuv ulo ba hos genagwuw vij bocpipso tovi bewipa ned sasne ebuavav se agulo solot. Wodeuw rabcapos fojsa futeizu bamive livadi se mozteztuj dofoal cuhmensa utesizu wi sipaj ak ver wekoces bowse soanotiw. Miese wu jij etiij mu wapetbiw uni napcubuc pidpo oro bucid rib mesdir."
+  },
+  "apiKey": "cfe6c4176e9d82e7a8cdd913fda58d6d044cb246beefaf3734d2a716577274c9",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
