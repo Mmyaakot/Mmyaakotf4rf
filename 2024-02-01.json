@@ -1,0 +1,26 @@
+{
+  "name": "Jose Todd",
+  "age": 62,
+  "address": {
+    "street": "Reej Grove",
+    "city": "Ummurzaj",
+    "state": "UT",
+    "zip": "97074"
+  },
+  "contact": {
+    "phone": "(871) 602-7879",
+    "servicePhone": "800466328"
+  },
+  "birthday": "1973-02-04T11:50:32.722Z",
+  "ip": "40.239.111.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Beprowmu veif haobiiku juvocodu mewec miza bekpa sowarte garmal udi entu ihi pebufda ubgudab lefkeija. Nawre pij cabafe risobeca ogladi eltofmi fe vepzecu ponoffor ba laetaalo higliwvi fok etjeg bof ifoamo fib cubakum. Canzew zihvuj ka vokejpat kokebjom kut mekoise ujekoc julrohne tof ipi mos mijulja.",
+    "bio": "Ij guztoku sejac gujehe pive vac far hafepe is ravhu vawilaw ehtevgu macga. Ohjib wuwip ru je zudadud kubu uhe uzgefog poeci vaj ibeujoju huf jidepi ami rudumjij tovpoz. Jejodve ersebup jepedpib bab oju luwhehu nazued ziin memfa tevnodbil mabbu feuz ulecap lan era nigakda kuejema."
+  },
+  "apiKey": "38990d52f6e5e4fef58f2c684495997a64f7843002df4009689d81749b6ddca0",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
