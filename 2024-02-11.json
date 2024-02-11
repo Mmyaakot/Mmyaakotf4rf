@@ -1,0 +1,26 @@
+{
+  "name": "Jack Price",
+  "age": 31,
+  "address": {
+    "street": "Oridod Pass",
+    "city": "Puginuha",
+    "state": "TN",
+    "zip": "32708"
+  },
+  "contact": {
+    "phone": "(410) 914-1742",
+    "servicePhone": "800762221"
+  },
+  "birthday": "1991-10-29T19:10:41.914Z",
+  "ip": "155.87.21.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Porrosver pu jugo je coddub iteid lurag kir muw saj to fakuttek salagil. Weganabew acose pop mivdakvut obulata itogu goaveve rojewi kiruppuh tos liuwvuj dog. Jolcek uzrubuk bolij naidwe zirtuig kuzogfa vap bahisec nef lawruhe honlep ovezucpuk mirsam puszinin sa gesica woas we.",
+    "bio": "Asu uju ho tuvlo de nuwanka tercika jil bap ru izu gihnic. Welted mabueko hu vuanolo gilgila bogewij da bo rid sacizilu zozip fazmitce. Inihonwad bugusuku migwopji jik jod beirka ju fa puvakso bi suttov diwke."
+  },
+  "apiKey": "342949b1ce34056c2956d6810fcb59711b2a584f1ada4593ff21fb35b230bf60",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
