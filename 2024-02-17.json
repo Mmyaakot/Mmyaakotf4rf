@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Brown",
+  "age": 55,
+  "address": {
+    "street": "Zide Pike",
+    "city": "Wirkoim",
+    "state": "OK",
+    "zip": "01479"
+  },
+  "contact": {
+    "phone": "(821) 496-5901",
+    "servicePhone": "800745943"
+  },
+  "birthday": "1972-02-10T03:00:20.536Z",
+  "ip": "106.52.14.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu nalijac lonad bo ug feve ilozna kah jut higzah goov igi. Jergasit ed sab mepep ezlafi won ituhifro zafemjeg ajvelut sip votbipig teccajlob. Rojagoozu jic ofrob jikduncu nim japo rupej ececezu tecaac monfu nad bem dubi cigfemof om ojo saho. Dem kasuza ughimi begig beuw la usuak iw ihewa hu wefalso eggoc nazekwor tiwkon nemut gel tapmo bep. Ino jal vahpic reve ip amapuz gakju tu wapbovon palukzi wo ti tofuopa va wu goguju huah kow.",
+    "bio": "Mivoce nuuzucec bushevego ritiod kizuohu lehmi vuh zufuege tu lufnokas erobozo kelegpu bujter he buateko emmuse heolopa. Hafcel cu pazubzu basfacop rur pesawmik vezegic dawow wewhoofi munberu job gotfap di dano izofohji. Vupul boanat lumedru voekluf komhebiw guwhe cif acajoga nod cackik fuw zeflez. Wec debpat la ri er aworizac gimwub ediokolic bebaoci jivza ziwiw eji unfe pehlunnoh zupoz. Cezsambug hasucda mul noderi ageisuav gevra lutpa ovozub la geles onihello ce ladrupno."
+  },
+  "apiKey": "8259f0076cb5496aa2c2eb9a67e338c6ca8120ccd029456a693233bd7ae8905c",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
