@@ -1,0 +1,26 @@
+{
+  "name": "Elsie Patrick",
+  "age": 38,
+  "address": {
+    "street": "Rocje Trail",
+    "city": "Lagtesofu",
+    "state": "MA",
+    "zip": "55701"
+  },
+  "contact": {
+    "phone": "(556) 312-8900",
+    "servicePhone": "800828782"
+  },
+  "birthday": "1988-07-04T16:36:53.678Z",
+  "ip": "202.0.23.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Ehi ufnapnu uzeasipu bejta visajap li onetab olusofdi pobarji pe latzi zone okho hu. Imcigac pooru necutrav kizelu ib ugdos fo azaastiw acvitzen niskaci lujawho hoh sefadu gocisiduh luiv hohdajren. Temapa vo wago utenon favuku voih houc ihgag ipi lubu mivtu gu nurtak cara molik kuukava nem. Moilime fumfah sapek kabeggu bulice enizik nuwi gukol fernud hosvar egcu bisjag.",
+    "bio": "De ir naihigis rutirel zif juvbonwo rerna ulime gepridgo kisde lubzowus gemungi viz iligoko jubcinbuv rozjewcac. Maput penatsod cainu amalibfip necsef dafihaf covan atnejoh roecenu jiwjijvi reh neb ireeldig wura. Ufi wiivaad porel douma kitew fofso gaul jom ri un monpouwi de san virlibar gi. Moto ofi hizog buj dakde zik upo vaf silocobu puhihu vezvo tima bujudu hin uw. Azo ravte nektu emebuz pav kugboki ve ogi aga eguradov vehojsu muju roilra ow nome tagboj."
+  },
+  "apiKey": "f42e9b89d3ba0c7aa06e8d6b526da8531e5546f17e056132b36578420620366d",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
