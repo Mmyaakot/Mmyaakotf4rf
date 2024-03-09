@@ -1,0 +1,26 @@
+{
+  "name": "Michael Lawrence",
+  "age": 32,
+  "address": {
+    "street": "Lupit Highway",
+    "city": "Dejniwlin",
+    "state": "KS",
+    "zip": "70847"
+  },
+  "contact": {
+    "phone": "(536) 620-4223",
+    "servicePhone": "800615485"
+  },
+  "birthday": "1963-11-13T09:07:08.900Z",
+  "ip": "101.245.45.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujefakiz ezrudel geiko pitfogpor zamen pucfivuz kiz wereddi bi kecnajnor ti seba jemvu. Del tep ez febebbu fatu eluladtoj mokic duvenpeh kiddo weelzu logap jo nenduvnas na maflusnab. Cefbahce wurgaheji jooj uk lepocib acolovej fuw golodav uv siiz vun weskifdu daodza ne kiuli fih goepiwuz tu.",
+    "bio": "Neug imeeke ir le huap zem he we sukog fa ohurage voci telga. Suditsa wuf bomgiz he varorzuj cu riwce udveh ikuuwe jihho dez nacir joutoof ajoheegu kofav. Nim sun fe ha up lanawpuh ahubibe mi hut gamose nigi zav ri. Heminkon bu jimeep ceim fabfobiw den tutiuw hica kugarasim caz ij umetun."
+  },
+  "apiKey": "d079755712b0367931586ae6c44a7cc0b4d20a3d9c2e1efb397c51da00ba021a",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
