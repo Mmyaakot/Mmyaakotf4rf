@@ -1,0 +1,26 @@
+{
+  "name": "Jack Stone",
+  "age": 40,
+  "address": {
+    "street": "Dola Plaza",
+    "city": "Cublepem",
+    "state": "NH",
+    "zip": "94251"
+  },
+  "contact": {
+    "phone": "(643) 207-2882",
+    "servicePhone": "800453932"
+  },
+  "birthday": "2005-09-25T01:44:15.566Z",
+  "ip": "204.70.206.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Gincead lofa ikewalo mi amvel imkuru jag liolifa nik ulococ owianutok lop. Tokec wileruf aviibe zutodim guwufu fifa musuj worgetu hefu boirwaj erepotve banba radvorgo. Oke cigagjo wis gijziw joh jel abbivji weif owitecba detdo cikal ac fegdo gi teri jurzobep wi jap.",
+    "bio": "Odpelmi mo po gu uneomu hu ircojej mirep wu ih sej wuwa genodez vip fe keup iwbin. Ruiw jurepgup lu lijje sa bafduhid jide di job roludim lugab nekubak zoikgub opefutged wa jodrurkom. Elifuz locfoh aco gug sajed kodtane uhu hewlidhe etovod sacuhu ijvo irevigfi. Mivezil vikokiz dahav jog wur igediteh zinahe zozazijut ju cododumu ezu nilhu eva."
+  },
+  "apiKey": "6a750a965294e72788a091004d4da0a71b2eea7443f38ae5a2c9e905bbf19d6b",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
