@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Gardner",
+  "age": 54,
+  "address": {
+    "street": "Ipuwi Square",
+    "city": "Mekfipeh",
+    "state": "MI",
+    "zip": "92958"
+  },
+  "contact": {
+    "phone": "(608) 772-3836",
+    "servicePhone": "800281428"
+  },
+  "birthday": "1963-03-11T01:12:00.739Z",
+  "ip": "213.99.33.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Gucu ap fowonhu civ jabbut me fesca sas ajwib hugpu am lurjef. Takhuwut rubdikaw gugebma sagavla da pelba fibi gada lujocza oj vum cajefu leriga se tip za. Eniti wabaco ra dutefeta ce pe si ba fame ma rog civihona unge puk mekoja wobjiej. Neraj lilcauti ow vutatvo fasmovat kav tifu iraecpe do noizas etera zodmu co nolaefa timbaklom vuj sedolavob. Huperhut ejpi evbic siloj nutokat eptascir rorma lig gi kajalbat hu hes bemor ifodedub ina ju. Ca cawre vetjucno mobte giev luz osioneto kij avilinhi tocaj zi wo ni hosgize kaice uf neg todawej.",
+    "bio": "Bapavev lejazumeg sunpal op ewuuzleb uf armi doga pi toctanful fewvat efu. Hugizfon ju fa gibenmoc pekonnu ciliwo ubugad vehpo ebdib paj aggu vav owvoj sa savopre ebehu tam rinzi. Hijehob sal gifutaw dappejiw cufjojci erlu demfol bozedik tan pispijis gucalvu tudwo duja umocoleb fuvohpa. Di ve zunbun lofko zazjuef ca ic wogwuben jelni gum seza gu vem befo jafcohtan zoib."
+  },
+  "apiKey": "6281da370fea84a0d2acc18071b55a04907a17fb5d0912020770eb0a94e23c9d",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
