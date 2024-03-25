@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Morris",
+  "age": 35,
+  "address": {
+    "street": "Arucu Place",
+    "city": "Holvutij",
+    "state": "AZ",
+    "zip": "33909"
+  },
+  "contact": {
+    "phone": "(956) 506-9716",
+    "servicePhone": "800456186"
+  },
+  "birthday": "1960-07-04T14:51:49.037Z",
+  "ip": "252.199.246.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Nume paddafdu wefej tubgun irtedce ses va zopoc ut tesum ug zufo ufdoas kegafe zan. En kavito usezi ziguchum ago ma setreze nubiuf og hub famlaf lidbopif. Guncofek far vep ebizow ril ula sa luc lar pozlevupi huuvlih ti pifego cieceku vubujaba jelhic. Te juf sosdac reksagsec caj mode losgogke jecici cagu te ge omaci ci irobe.",
+    "bio": "Humapoko nu wofpa mi dofedvi burihtad hog rapnezal ilmekit copimo jozaku mifgut ir urado tuginuh zamifag. Usesozkow vigrajon levokhu ru jeerohe jozsev oluhawo daiz bif nidaf vuwi mo semila si aradebla. Pil tepo awzapgih iwzaih en gi mikugosu ak pi odho getubupa bu zonce pi nurzig uhu."
+  },
+  "apiKey": "23ac97ee4ce39e39b77724492ef11b011b395a1345dba6c315d6a1cd0f1cfa5f",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
