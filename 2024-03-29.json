@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Rhodes",
+  "age": 25,
+  "address": {
+    "street": "Kotumi Manor",
+    "city": "Popifped",
+    "state": "KS",
+    "zip": "21064"
+  },
+  "contact": {
+    "phone": "(286) 582-1773",
+    "servicePhone": "800675182"
+  },
+  "birthday": "1961-01-27T20:30:54.752Z",
+  "ip": "200.205.246.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Gomloba li nubba atipe asoirawu femta sunid gajbadave zidu suchiki facaera ka nuicnom po zibotap mecirgu. Lew vide upe ihmuj retni fe do ficu to va dis fetipha var surfi. Zilizna fotle muwkos cawwe cegzohfu golig kebhumuf wajjip ta tubnin vepivij fanseg.",
+    "bio": "Uppik mici ruc maj efo hija deznu zopud vi beh wik mam furembep hosium rifkevsu ec ni. Havigo cin wu nemuv zufeliwu cid sendo puhabmah si to taga rarfoj londez lal webbifdu ati wohedti. Noerapu udnij viujomuw lu fis pitga adiva ikvem rikut neizur jo vi fadcerof upogag vobtuna ow."
+  },
+  "apiKey": "53507f50c17ccd97b2ef906e4d5040078b74407fdf71ef26e13f86c33c8d0ae7",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
