@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Reeves",
+  "age": 40,
+  "address": {
+    "street": "Lumnug River",
+    "city": "Ajeacare",
+    "state": "NY",
+    "zip": "88372"
+  },
+  "contact": {
+    "phone": "(848) 843-5961",
+    "servicePhone": "800921722"
+  },
+  "birthday": "1995-10-19T20:15:08.081Z",
+  "ip": "182.210.52.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Lem boto ajoho apefi dazosam sactogbu mofitum roepajis tikti zicamtic kaociol fadto toje. Ongibi bo eso punu pupevewa hibhajfa litse iwelop zejlu haan feopedum gu. Di se tingi dozofecu madfuj nukona tujepmoh je eswano gohi mi te zev enjode.",
+    "bio": "Vaksucve erineiv uno bima luggec kialhu asut widim hawose os deblol omiwi ola suzalpip bustikfas fo roldo. Wikug niegiro lecuiv boneboj sawtatpo fej cim tebe sisjat iz nec vujol hovovhuv erisus rirhi luvi. Resipsa sivmowla wudoodi ejgo kamamin seoc ko ceuhekeb bikah ofo noog kesilgu pidojam uv vaafa luvikaw. Tonhizef kotemama mu hiawuwag cehre ajkavu ruzvennod ru cezdu roj ge rafapa fiburi sefevkop tecufaji awtakdat vilut. Imifogwi miis ned ebu basor zecpi wosag age upewibad elom talsazun vericpo futa filengi ejdutop ug wava. Ni jivazdub pop nafukzej ge ecra vahohar gol nu uv ev zamabal vebodhut meah."
+  },
+  "apiKey": "b289a92f9f1a7cf521c248ddfeb80fdfd30787c66f29db7f40428104f7c5ae59",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
